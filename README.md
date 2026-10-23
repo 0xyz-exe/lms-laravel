@@ -1,6 +1,36 @@
 # LMS Laravel
 
-Learning management starter: instructor-owned courses, published catalog, student enrollment, enrolled-only lesson access, progress tracking, server-scored quizzes, role-based dashboards.
+A comprehensive learning management system featuring instructor-managed courses, public course catalogs, student enrollments, progress tracking, lesson viewers, and server-scored quizzes.
+
+Repository: https://github.com/0xyz-exe/lms-laravel
+
+## Screenshots
+
+### Course Catalog & Discovery
+![Course catalog](docs/screenshots/01_courses_catalog.png)
+
+### Course Overview & Syllabus
+![Course overview](docs/screenshots/02_course_detail.png)
+
+### Student Learning Dashboard
+![Student dashboard](docs/screenshots/04_student_dashboard.png)
+
+### Lesson Content Viewer
+![Lesson viewer](docs/screenshots/05_lesson_viewer.png)
+
+### Interactive Quiz & Self-Assessment
+![Quiz](docs/screenshots/06_quiz.png)
+
+### Authentication
+![Authentication](docs/screenshots/03_login.png)
+
+## Features
+
+- **Course Directory & Outlines:** Browse published courses, inspect curriculum modules, instructor bios, and learning objectives.
+- **Student Enrollment & Progress:** Students enroll in courses and track lesson completions via structured progress indicators.
+- **Enrolled-Only Content Protection:** Lesson viewers and curriculum media are protected by server-side enrollment verification.
+- **Interactive Quizzes:** Multiple-choice quiz assessments with instant server-side grading and passing threshold checks.
+- **Instructor Authoring Portal:** Instructors create, edit, publish, and manage courses, lessons, and quizzes with ownership validation.
 
 ## Setup
 
