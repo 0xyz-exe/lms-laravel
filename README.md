@@ -1,7 +1,5 @@
 # LMS Laravel
 
-A comprehensive learning management system featuring instructor-managed courses, public course catalogs, student enrollments, progress tracking, lesson viewers, and server-scored quizzes.
-
 Repository: https://github.com/0xyz-exe/lms-laravel
 
 ## Screenshots
@@ -13,16 +11,16 @@ Repository: https://github.com/0xyz-exe/lms-laravel
 ![Course overview](docs/screenshots/02_course_detail.png)
 
 ### Student Learning Dashboard
-![Student dashboard](docs/screenshots/04_student_dashboard.png)
+![Student dashboard](docs/screenshots/03_student_dashboard.png)
 
 ### Lesson Content Viewer
-![Lesson viewer](docs/screenshots/05_lesson_viewer.png)
+![Lesson viewer](docs/screenshots/04_lesson_viewer.png)
 
 ### Interactive Quiz & Self-Assessment
-![Quiz](docs/screenshots/06_quiz.png)
+![Quiz](docs/screenshots/05_quiz.png)
 
-### Authentication
-![Authentication](docs/screenshots/03_login.png)
+### Authentication & Access
+![Authentication](docs/screenshots/06_login.png)
 
 ## Features
 
