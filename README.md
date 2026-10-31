@@ -4,23 +4,12 @@ Repository: https://github.com/0xyz-exe/lms-laravel
 
 ## Screenshots
 
-### Course Catalog & Discovery
-![Course catalog](docs/screenshots/01_courses_catalog.png)
-
-### Course Overview & Syllabus
-![Course overview](docs/screenshots/02_course_detail.png)
-
-### Student Learning Dashboard
-![Student dashboard](docs/screenshots/03_student_dashboard.png)
-
-### Lesson Content Viewer
-![Lesson viewer](docs/screenshots/04_lesson_viewer.png)
-
-### Interactive Quiz & Self-Assessment
-![Quiz](docs/screenshots/05_quiz.png)
-
-### Authentication & Access
-![Authentication](docs/screenshots/06_login.png)
+| Tampilan | Preview |
+|---|---|
+| **Katalog Kursus & Penelusuran Materi**<br>Halaman utama LearnHub dengan banner pencarian kursus, kategori pemrograman dan cloud, serta kartu ringkasan kurikulum | ![Katalog Kursus & Penelusuran Materi](docs/screenshots/01-courses-catalog.png) |
+| **Silabus Kurikulum & Struktur Pembelajaran**<br>Detail silabus kursus terstruktur dengan profil instruktur, modul pelajaran berurutan, evaluasi kuis, dan tombol pendaftaran | ![Silabus Kurikulum & Struktur Pembelajaran](docs/screenshots/02-course-syllabus.png) |
+| **Dasbor Pembelajaran Siswa**<br>Panel siswa terdaftar dengan ringkasan status progres penyelesaian pelajaran aktif dan tautan cepat ke materi pembelajaran | ![Dasbor Pembelajaran Siswa](docs/screenshots/03-student-learning-dashboard.png) |
+| **Portal Pengelolaan Kursus Instruktur**<br>Manajemen kursus instruktur untuk membuat materi baru, meninjau status publikasi modul, dan menyunting silabus | ![Portal Pengelolaan Kursus Instruktur](docs/screenshots/04-instructor-course-manager.png) |
 
 ## Features
 
